@@ -49,7 +49,7 @@ class Solution:
             if i not in hashmap:
                 hashmap[i]=[1, i]
             else:
-                hashmap[i][0]+=hashmap[i][0]
+               hashmap[i][0] += 1
             
        
 
