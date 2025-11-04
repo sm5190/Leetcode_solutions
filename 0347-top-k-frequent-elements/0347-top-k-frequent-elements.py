@@ -43,25 +43,42 @@
 
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        hashmap=defaultdict(list)
-        for i in nums:
+
+        #O(n+m+klogk)
+        # hashmap=defaultdict(list)
+        # for i in nums: #O(n)
             
-            if i not in hashmap:
-                hashmap[i]=[1, i]
-            else:
-               hashmap[i][0] += 1
+        #     if i not in hashmap:
+        #         hashmap[i]=[1, i]
+        #     else:
+        #        hashmap[i][0] += 1
             
        
 
 
-        freq=[(-f,i) for f, i in hashmap.values()]
+        # freq=[(-f,i) for f, i in hashmap.values()] #O(m)
        
 
-        heapq.heapify(freq)
-        res=[]
-        for i in range(k):
-            x=heapq.heappop(freq)
-            res.append(x[1])
-        return res
+        # heapq.heapify(freq)
+        # res=[]
+        # for i in range(k): # k log k
+        #     x=heapq.heappop(freq)
+        #     res.append(x[1])
+        # return res
         
+
+## O(n)
+        freq=Counter(nums)
+        buckets=[[] for _ in range(len(nums)+1)]
+
+        for num, f in freq.items():
+            buckets[f].append(num)
+        res=[]
+        for f in range(len(nums), 0, -1):       # O(n)
+            for num in buckets[f]:
+                res.append(num)
+                if len(res)==k:
+                    return res
+
+        return res
 
