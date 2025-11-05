@@ -6,10 +6,10 @@ class Solution:
             mid=(l+r)//2
 
             if nums[mid]>target:
-                r=r-1
+                r=mid-1
 
             elif nums[mid]<target:
-                l=l+1
+                l=mid+1
 
             else:
                 return mid
