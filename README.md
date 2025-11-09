@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sm5190/Leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sm5190/Leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Greedy
 |  |
 | ------- |
@@ -35,5 +36,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sm5190/Leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0092-reverse-linked-list-ii](https://github.com/sm5190/Leetcode_solutions/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
