@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sm5190/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/sm5190/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0792-binary-search](https://github.com/sm5190/Leetcode_solutions/tree/master/0792-binary-search) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/sm5190/Leetcode_solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sm5190/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/sm5190/Leetcode_solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Union Find
 |  |
 | ------- |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sm5190/Leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0092-reverse-linked-list-ii](https://github.com/sm5190/Leetcode_solutions/tree/master/0092-reverse-linked-list-ii) |
+## Sorting
+|  |
+| ------- |
+| [1741-sort-array-by-increasing-frequency](https://github.com/sm5190/Leetcode_solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 <!---LeetCode Topics End-->
