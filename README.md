@@ -58,4 +58,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sm5190/Leetcode_solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+## Tree
+|  |
+| ------- |
+| [0545-boundary-of-binary-tree](https://github.com/sm5190/Leetcode_solutions/tree/master/0545-boundary-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0545-boundary-of-binary-tree](https://github.com/sm5190/Leetcode_solutions/tree/master/0545-boundary-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0545-boundary-of-binary-tree](https://github.com/sm5190/Leetcode_solutions/tree/master/0545-boundary-of-binary-tree) |
 <!---LeetCode Topics End-->
