@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/sm5190/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0792-binary-search](https://github.com/sm5190/Leetcode_solutions/tree/master/0792-binary-search) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sm5190/Leetcode_solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sm5190/Leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sm5190/Leetcode_solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Prefix Sum
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sm5190/Leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sm5190/Leetcode_solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Counting
 |  |
@@ -79,4 +81,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3729-unit-conversion-i](https://github.com/sm5190/Leetcode_solutions/tree/master/3729-unit-conversion-i) |
+## Math
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sm5190/Leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sm5190/Leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sm5190/Leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sm5190/Leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
