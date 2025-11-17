@@ -12,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/sm5190/Leetcode_solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sm5190/Leetcode_solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sm5190/Leetcode_solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2625-increment-submatrices-by-one](https://github.com/sm5190/Leetcode_solutions/tree/master/2625-increment-submatrices-by-one) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sm5190/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
+| [2625-increment-submatrices-by-one](https://github.com/sm5190/Leetcode_solutions/tree/master/2625-increment-submatrices-by-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/sm5190/Leetcode_solutions/tree/master/0152-maximum-product-subarray) |
+## Matrix
+|  |
+| ------- |
+| [2625-increment-submatrices-by-one](https://github.com/sm5190/Leetcode_solutions/tree/master/2625-increment-submatrices-by-one) |
 <!---LeetCode Topics End-->
