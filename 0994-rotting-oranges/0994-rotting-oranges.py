@@ -1,36 +1,36 @@
 
 
-class Solution:
-    def orangesRotting(self, grid: List[List[int]]) -> int:
-        n, m = len(grid), len(grid[0])
-        queue = deque()
-        fresh = 0
+# class Solution:
+#     def orangesRotting(self, grid: List[List[int]]) -> int:
+#         n, m = len(grid), len(grid[0])
+#         queue = deque()
+#         fresh = 0
 
-        # Step 1: Collect all initial rotten oranges
-        for i in range(n):
-            for j in range(m):
-                if grid[i][j] == 2:
-                    queue.append((i, j, 0))  # (row, col, time)
-                elif grid[i][j] == 1:
-                    fresh += 1
+#         # Step 1: Collect all initial rotten oranges
+#         for i in range(n):
+#             for j in range(m):
+#                 if grid[i][j] == 2:
+#                     queue.append((i, j, 0))  # (row, col, time)
+#                 elif grid[i][j] == 1:
+#                     fresh += 1
 
-        time = 0
-        dirs = [[0,1], [1,0], [0,-1], [-1,0]]
+#         time = 0
+#         dirs = [[0,1], [1,0], [0,-1], [-1,0]]
 
-        # Step 2: BFS to rot neighbors
-        while queue:
-            r, c, t = queue.popleft()
-            time = max(time, t)
+#         # Step 2: BFS to rot neighbors
+#         while queue:
+#             r, c, t = queue.popleft()
+#             time = max(time, t)
 
-            for dr, dc in dirs:
-                nr, nc = r + dr, c + dc
-                if 0 <= nr < n and 0 <= nc < m and grid[nr][nc] == 1:
-                    grid[nr][nc] = 2  # Rot it
-                    fresh -= 1
-                    queue.append((nr, nc, t + 1))
+#             for dr, dc in dirs:
+#                 nr, nc = r + dr, c + dc
+#                 if 0 <= nr < n and 0 <= nc < m and grid[nr][nc] == 1:
+#                     grid[nr][nc] = 2  # Rot it
+#                     fresh -= 1
+#                     queue.append((nr, nc, t + 1))
 
-        # Step 3: Check if all fresh oranges are rotted
-        return time if fresh == 0 else -1
+#         # Step 3: Check if all fresh oranges are rotted
+#         return time if fresh == 0 else -1
 
 
 
