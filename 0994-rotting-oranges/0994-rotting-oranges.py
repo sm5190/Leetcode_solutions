@@ -73,7 +73,8 @@ class Solution:
                 nr= row+dr
                 nc= col+dc
 
-                if 0<=nr<n and 0<=nc<m and grid[nr][nc]==1:
+                if 0<=nr<n and 0<=nc<m and grid[nr][nc]!=0:
+                    if grid[nr][nc]==1:
                         grid[nr][nc]=2
                         fresh-=1
 
