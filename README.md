@@ -24,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sm5190/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0694-number-of-distinct-islands](https://github.com/sm5190/Leetcode_solutions/tree/master/0694-number-of-distinct-islands) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sm5190/Leetcode_solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sm5190/Leetcode_solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sm5190/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0694-number-of-distinct-islands](https://github.com/sm5190/Leetcode_solutions/tree/master/0694-number-of-distinct-islands) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/sm5190/Leetcode_solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0545-boundary-of-binary-tree](https://github.com/sm5190/Leetcode_solutions/tree/master/0545-boundary-of-binary-tree) |
+| [0694-number-of-distinct-islands](https://github.com/sm5190/Leetcode_solutions/tree/master/0694-number-of-distinct-islands) |
 | [3729-unit-conversion-i](https://github.com/sm5190/Leetcode_solutions/tree/master/3729-unit-conversion-i) |
 ## Binary Tree
 |  |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/sm5190/Leetcode_solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0694-number-of-distinct-islands](https://github.com/sm5190/Leetcode_solutions/tree/master/0694-number-of-distinct-islands) |
 | [0994-rotting-oranges](https://github.com/sm5190/Leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [3729-unit-conversion-i](https://github.com/sm5190/Leetcode_solutions/tree/master/3729-unit-conversion-i) |
 ## Graph
@@ -116,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/sm5190/Leetcode_solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0994-rotting-oranges](https://github.com/sm5190/Leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [2625-increment-submatrices-by-one](https://github.com/sm5190/Leetcode_solutions/tree/master/2625-increment-submatrices-by-one) |
+## Hash Function
+|  |
+| ------- |
+| [0694-number-of-distinct-islands](https://github.com/sm5190/Leetcode_solutions/tree/master/0694-number-of-distinct-islands) |
 <!---LeetCode Topics End-->
