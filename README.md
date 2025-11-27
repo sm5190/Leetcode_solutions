@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sm5190/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/sm5190/Leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/sm5190/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
+| [0269-alien-dictionary](https://github.com/sm5190/Leetcode_solutions/tree/master/0269-alien-dictionary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sm5190/Leetcode_solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0792-binary-search](https://github.com/sm5190/Leetcode_solutions/tree/master/0792-binary-search) |
 | [0994-rotting-oranges](https://github.com/sm5190/Leetcode_solutions/tree/master/0994-rotting-oranges) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0269-alien-dictionary](https://github.com/sm5190/Leetcode_solutions/tree/master/0269-alien-dictionary) |
 | [0468-validate-ip-address](https://github.com/sm5190/Leetcode_solutions/tree/master/0468-validate-ip-address) |
 | [1283-reformat-date](https://github.com/sm5190/Leetcode_solutions/tree/master/1283-reformat-date) |
 ## Bit Manipulation
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/sm5190/Leetcode_solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sm5190/Leetcode_solutions/tree/master/0210-course-schedule-ii) |
+| [0269-alien-dictionary](https://github.com/sm5190/Leetcode_solutions/tree/master/0269-alien-dictionary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sm5190/Leetcode_solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0545-boundary-of-binary-tree](https://github.com/sm5190/Leetcode_solutions/tree/master/0545-boundary-of-binary-tree) |
 | [0694-number-of-distinct-islands](https://github.com/sm5190/Leetcode_solutions/tree/master/0694-number-of-distinct-islands) |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/sm5190/Leetcode_solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sm5190/Leetcode_solutions/tree/master/0210-course-schedule-ii) |
+| [0269-alien-dictionary](https://github.com/sm5190/Leetcode_solutions/tree/master/0269-alien-dictionary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sm5190/Leetcode_solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0694-number-of-distinct-islands](https://github.com/sm5190/Leetcode_solutions/tree/master/0694-number-of-distinct-islands) |
 | [0994-rotting-oranges](https://github.com/sm5190/Leetcode_solutions/tree/master/0994-rotting-oranges) |
@@ -99,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/sm5190/Leetcode_solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sm5190/Leetcode_solutions/tree/master/0210-course-schedule-ii) |
+| [0269-alien-dictionary](https://github.com/sm5190/Leetcode_solutions/tree/master/0269-alien-dictionary) |
 | [3729-unit-conversion-i](https://github.com/sm5190/Leetcode_solutions/tree/master/3729-unit-conversion-i) |
 ## Math
 |  |
@@ -135,4 +140,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/sm5190/Leetcode_solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sm5190/Leetcode_solutions/tree/master/0210-course-schedule-ii) |
+| [0269-alien-dictionary](https://github.com/sm5190/Leetcode_solutions/tree/master/0269-alien-dictionary) |
 <!---LeetCode Topics End-->
