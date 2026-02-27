@@ -6,7 +6,7 @@ class Solution:
        
 
         
-        i=0
+        
         maxcount=1
         for num in hashset:
             
