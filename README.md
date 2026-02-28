@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/sm5190/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0269-alien-dictionary](https://github.com/sm5190/Leetcode_solutions/tree/master/0269-alien-dictionary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sm5190/Leetcode_solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0739-daily-temperatures](https://github.com/sm5190/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/sm5190/Leetcode_solutions/tree/master/0792-binary-search) |
 | [0994-rotting-oranges](https://github.com/sm5190/Leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sm5190/Leetcode_solutions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -148,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sm5190/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/sm5190/Leetcode_solutions/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/sm5190/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
