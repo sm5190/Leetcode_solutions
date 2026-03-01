@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sm5190/Leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sm5190/Leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/sm5190/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/sm5190/Leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sm5190/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -152,9 +153,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sm5190/Leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/sm5190/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sm5190/Leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/sm5190/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
