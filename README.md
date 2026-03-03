@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sm5190/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/sm5190/Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0694-number-of-distinct-islands](https://github.com/sm5190/Leetcode_solutions/tree/master/0694-number-of-distinct-islands) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sm5190/Leetcode_solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sm5190/Leetcode_solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0269-alien-dictionary](https://github.com/sm5190/Leetcode_solutions/tree/master/0269-alien-dictionary) |
+| [0424-longest-repeating-character-replacement](https://github.com/sm5190/Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0468-validate-ip-address](https://github.com/sm5190/Leetcode_solutions/tree/master/0468-validate-ip-address) |
 | [1283-reformat-date](https://github.com/sm5190/Leetcode_solutions/tree/master/1283-reformat-date) |
 ## Bit Manipulation
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sm5190/Leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/sm5190/Leetcode_solutions/tree/master/0739-daily-temperatures) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/sm5190/Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
