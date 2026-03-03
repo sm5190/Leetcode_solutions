@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/sm5190/Leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/sm5190/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/sm5190/Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0694-number-of-distinct-islands](https://github.com/sm5190/Leetcode_solutions/tree/master/0694-number-of-distinct-islands) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/sm5190/Leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0269-alien-dictionary](https://github.com/sm5190/Leetcode_solutions/tree/master/0269-alien-dictionary) |
 | [0424-longest-repeating-character-replacement](https://github.com/sm5190/Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0468-validate-ip-address](https://github.com/sm5190/Leetcode_solutions/tree/master/0468-validate-ip-address) |
@@ -165,5 +167,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/sm5190/Leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/sm5190/Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
