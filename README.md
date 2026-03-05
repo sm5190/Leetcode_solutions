@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/sm5190/Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/sm5190/Leetcode_solutions/tree/master/0545-boundary-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -90,12 +91,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/sm5190/Leetcode_solutions/tree/master/0210-course-schedule-ii) |
 | [0269-alien-dictionary](https://github.com/sm5190/Leetcode_solutions/tree/master/0269-alien-dictionary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sm5190/Leetcode_solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0543-diameter-of-binary-tree](https://github.com/sm5190/Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/sm5190/Leetcode_solutions/tree/master/0545-boundary-of-binary-tree) |
 | [0694-number-of-distinct-islands](https://github.com/sm5190/Leetcode_solutions/tree/master/0694-number-of-distinct-islands) |
 | [3729-unit-conversion-i](https://github.com/sm5190/Leetcode_solutions/tree/master/3729-unit-conversion-i) |
 ## Binary Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/sm5190/Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/sm5190/Leetcode_solutions/tree/master/0545-boundary-of-binary-tree) |
 ## Breadth-First Search
 |  |
