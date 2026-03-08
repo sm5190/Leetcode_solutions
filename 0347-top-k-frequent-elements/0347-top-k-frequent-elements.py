@@ -41,8 +41,8 @@
 
 #         return result 
 
-class Solution:
-    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+# class Solution:
+#     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
 
         #O(n+m+klogk)
         # hashmap=defaultdict(list)
@@ -68,17 +68,42 @@ class Solution:
         
 
 ## O(n)
-        freq=Counter(nums)
-        buckets=[[] for _ in range(len(nums)+1)]
+        # freq=Counter(nums)
+        # buckets=[[] for _ in range(len(nums)+1)]
 
-        for num, f in freq.items():
-            buckets[f].append(num)
-        res=[]
-        for f in range(len(nums), 0, -1):       # O(n)
-            for num in buckets[f]:
-                res.append(num)
-                if len(res)==k:
-                    return res
+        # for num, f in freq.items():
+        #     buckets[f].append(num)
+        # res=[]
+        # for f in range(len(nums), 0, -1):       # O(n)
+        #     for num in buckets[f]:
+        #         res.append(num)
+        #         if len(res)==k:
+        #             return res
 
-        return res
+        # return res
+
+
+
+class Solution:
+
+     def topKFrequent(self, nums: List[int], k: int) -> List[int]: #[1,1,1,2,2,3], k = 2
+
+        freq={}
+
+        for num in nums:
+            freq[num]= freq.get(num, 0)+1
+
+        # freq{ 1: 3, 2: 2, 3:1}
+        bucket=[[] for _ in range(len(nums)+1)]
+        for num, count in freq.items():
+            bucket[count].append(num) #[ 0: 3, 1: 3, 2:2, 3:1]
+
+        result=[]
+        
+        for i in range(len(bucket)-1, -1, -1):
+            for num in bucket[i]:
+                result.append(num)
+                if len(result)==k:
+                    return result #[1, 2]
+
 
