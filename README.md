@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/sm5190/Leetcode_solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/sm5190/Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/sm5190/Leetcode_solutions/tree/master/0545-boundary-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/sm5190/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0694-number-of-distinct-islands](https://github.com/sm5190/Leetcode_solutions/tree/master/0694-number-of-distinct-islands) |
 | [3729-unit-conversion-i](https://github.com/sm5190/Leetcode_solutions/tree/master/3729-unit-conversion-i) |
 ## Binary Tree
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/sm5190/Leetcode_solutions/tree/master/0210-course-schedule-ii) |
 | [0269-alien-dictionary](https://github.com/sm5190/Leetcode_solutions/tree/master/0269-alien-dictionary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sm5190/Leetcode_solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0547-number-of-provinces](https://github.com/sm5190/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0694-number-of-distinct-islands](https://github.com/sm5190/Leetcode_solutions/tree/master/0694-number-of-distinct-islands) |
 | [0994-rotting-oranges](https://github.com/sm5190/Leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [3729-unit-conversion-i](https://github.com/sm5190/Leetcode_solutions/tree/master/3729-unit-conversion-i) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sm5190/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/sm5190/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 ## Stack
 |  |
 | ------- |
@@ -199,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sm5190/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sm5190/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
