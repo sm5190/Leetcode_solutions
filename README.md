@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sm5190/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/sm5190/Leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/sm5190/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/sm5190/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sm5190/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/sm5190/Leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0269-alien-dictionary](https://github.com/sm5190/Leetcode_solutions/tree/master/0269-alien-dictionary) |
 | [0424-longest-repeating-character-replacement](https://github.com/sm5190/Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sm5190/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/sm5190/Leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/sm5190/Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Divide and Conquer
