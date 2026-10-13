@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/sm5190/Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/sm5190/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0694-number-of-distinct-islands](https://github.com/sm5190/Leetcode_solutions/tree/master/0694-number-of-distinct-islands) |
+| [0981-time-based-key-value-store](https://github.com/sm5190/Leetcode_solutions/tree/master/0981-time-based-key-value-store) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sm5190/Leetcode_solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sm5190/Leetcode_solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Union Find
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sm5190/Leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sm5190/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/sm5190/Leetcode_solutions/tree/master/0792-binary-search) |
+| [0981-time-based-key-value-store](https://github.com/sm5190/Leetcode_solutions/tree/master/0981-time-based-key-value-store) |
 ## Linked List
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/sm5190/Leetcode_solutions/tree/master/0269-alien-dictionary) |
 | [0424-longest-repeating-character-replacement](https://github.com/sm5190/Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0468-validate-ip-address](https://github.com/sm5190/Leetcode_solutions/tree/master/0468-validate-ip-address) |
+| [0981-time-based-key-value-store](https://github.com/sm5190/Leetcode_solutions/tree/master/0981-time-based-key-value-store) |
 | [1283-reformat-date](https://github.com/sm5190/Leetcode_solutions/tree/master/1283-reformat-date) |
 ## Bit Manipulation
 |  |
@@ -219,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sm5190/Leetcode_solutions/tree/master/0056-merge-intervals) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/sm5190/Leetcode_solutions/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
